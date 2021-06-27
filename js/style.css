@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#snow1{
+    width: 25%;
+    height: 100vh;
+    background: url(../image/1.jpg);
+    background-size: cover;
+    display: inline-block;
+}
+#snow2{
+    width: 25%;
+    height: 100vh;
+    background: url(../image/2.jpg);
+    background-size: cover;
+    display: inline-block;
+}
+#snow3{
+    width: 25%;
+    height: 100vh;
+    background: url(../image/3.jpg);
+    background-size: cover;
+    display: inline-block;
+}
+#snow4{
+    width: 24%;
+    height: 100vh;
+    background: url(../image/4.jpg);
+    background-size: cover;
+    float: left;
+    margin-right: 5px;
+}
